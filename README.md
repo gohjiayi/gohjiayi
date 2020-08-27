@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Reach me via (email)[mailto:gohjiayi@u.nus.edu] or (LinkedIn)[https://www.linkedin.com/in/gohjiayi].
+Reach me via [email](mailto:gohjiayi@u.nus.edu) or [LinkedIn](https://www.linkedin.com/in/gohjiayi).
 
 <!--
 **gohjiayi/gohjiayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
