@@ -1,6 +1,6 @@
 ## Hello! I am Jia Yi (Jesa) <img src="https://media1.tenor.com/images/b9e22383bd074c785c9635f777399da0/tenor.gif?itemid=12653263" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gohjiayi)
-[![Website Badge](https://img.shields.io/badge/Website-A84A66?style=flat-square&logo=google-chrome&logoColor=white)](https://gohjiayi.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gohjiayi)
+[![Website Badge](https://img.shields.io/badge/Website-A84A66?style=for-square&logo=google-chrome&logoColor=white)](https://gohjiayi.github.io)
 [![Email Badge](https://img.shields.io/badge/Email-1EA89C?&style=for-square&logo=gmail&logoColor=white)](mailto:gohjiayi@u.nus.edu)
 
 - 📚 Currently a Final Year **Business Analytics** Undergraduate at National University of Singapore (NUS)
