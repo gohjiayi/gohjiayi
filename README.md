@@ -10,7 +10,7 @@
 - 🧋 Fun Fact: I love *coffee* and *bubble tea* and I drink them (almost) everyday
 - ✨ Hobbies: I'm an *EXO-L* (and a huge kpop stan)
 
-## Language and Tools
+## Languages and Tools
 <p>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
