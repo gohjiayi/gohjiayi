@@ -3,11 +3,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-A84A66?style=for-square&logo=google-chrome&logoColor=white)](https://gohjiayi.github.io)
 [![Email Badge](https://img.shields.io/badge/Email-1EA89C?&style=for-square&logo=gmail&logoColor=white)](mailto:gohjiayi@u.nus.edu)
 
-- 📚 Currently a Final Year **Business Analytics** Undergraduate at National University of Singapore (NUS)
-- 👩‍💻 My interest lies in **Data Science** - Analytics and Machine Learning
-- 💪 I'm currently working on many different *academic projects* and *hackathons*!
-- 🤓 I'm learning about *Docker* and *Kubernetes*! Also looking to pick up *Go*
-- 🧋 Fun Fact: I love *coffee* and *bubble tea* and I drink them (almost) everyday
+- 👩‍💻 My interest lies in **Data Science** and **Machine Learning**.
+- 💪 I'm currently working on many different *ML projects*!
+- 🤓 I'm learning about *DevOps* and *MLOps*.
+- 🌴 Fun Fact: I love *coffee* and *bubble tea* and I drink them (almost) everyday
 - ✨ Hobbies: I'm an *EXO-L* (and a huge kpop stan)
 
 ## Languages and Tools
